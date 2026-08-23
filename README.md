@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ViktorVinogradov89/ViktorVinogradov89/main/logo.jpg" width="50%" style="background: #ffffff; border-radius: 15px; padding: 10px;"/>
+  <img src="https://raw.githubusercontent.com/ViktorVinogradov89/ViktorVinogradov89/main/logo.png" width="50%"/>
 </p>
+
+<br/>
 
 # 👋 Привет, я Виктор
 I'm studying at @SENATOROVAI
