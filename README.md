@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ViktorVinogradov89/ViktorVinogradov89/main/logo.png" width="50%"/>
+  <img src="https://raw.githubusercontent.com/ViktorVinogradov89/ViktorVinogradov89/main/logo.png" width="40%"/>
 </p>
 
 <br/>
