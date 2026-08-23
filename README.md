@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ViktorVinogradov89/ViktorVinogradov89/main/head.png" width="50%" style="background: #0d1117;"/>
+  <img src="https://raw.githubusercontent.com/ViktorVinogradov89/ViktorVinogradov89/main/logo.jpg" width="50%" style="background: #0d1117;"/>
 </p>
 # 👋 Привет, я Виктор
 I'm studying at @SENATOROVAI
