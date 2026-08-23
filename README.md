@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://raw.githubusercontent.com/ViktorVinogradov89/ViktorVinogradov89/main/banner.png
+https://raw.githubusercontent.com/ViktorVinogradov89/ViktorVinogradov89/main/head.png
 <!--
 **ViktorVinogradov89/ViktorVinogradov89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
