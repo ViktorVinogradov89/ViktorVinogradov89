@@ -1,5 +1,14 @@
-## Hi there 👋
-https://raw.githubusercontent.com/ViktorVinogradov89/ViktorVinogradov89/main/head.png
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ViktorVinogradov89/ViktorVinogradov89/main/head.png" width="100%"/>
+</p>
+
+<br/>
+
+# 👋 Привет, я Виктор
+I'm studying at @SENATOROVAI
+
+- [Kaggle](https://www.kaggle.com/viktor1606)
+- [ODS.ai](https://ods.ai/users/h84e26d5018f3)
 <!--
 **ViktorVinogradov89/ViktorVinogradov89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
