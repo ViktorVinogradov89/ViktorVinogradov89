@@ -5,21 +5,21 @@
 <br/>
 
 <p align="center">
-  <a href="https://t.me/Viktor_vin1" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://t.me/ваш_никнейм" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" width="180"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/viktor1606" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle-20B2AA?style=for-the-badge&logo=kaggle&logoColor=white" width="150"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ViktorVinogradov89" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white" width="150"/>
   </a>
 </p>
-# 👋 Привет, я Виктор
-I'm studying at @SENATOROVAI
 
-- [Kaggle](https://www.kaggle.com/viktor1606)
-- [ODS.ai](https://ods.ai/users/h84e26d5018f3)
+<br/>
+
 <!--
 **ViktorVinogradov89/ViktorVinogradov89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
