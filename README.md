@@ -30,7 +30,7 @@
       </p>
       <p align="center" style="font-size: 16px; line-height: 1.8;">
         👋 Привет! Меня зовут <strong>Виктор Виноградов</strong>.<br/>
-        Я начинающий <strong>Data Scientist</strong> и студент в <strong>SENATOROV.AI</strong>.<br/><br/>
+        
         📊 Работаю с <strong>Python, Pandas, Scikit-learn, XGBoost</strong>.<br/>
         🔍 Провожу EDA, строю ML-пайплайны и интерпретирую модели.<br/>
         📈 Увлекаюсь статистикой, оптимизацией и решением прикладных задач.<br/>
