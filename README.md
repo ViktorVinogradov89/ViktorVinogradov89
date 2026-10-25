@@ -43,8 +43,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=300&lines=Data+Scientist;ML+Engineer;Data+Analyst" alt="Typing SVG"/>
       </p>
       <p align="center" style="font-size: 16px; line-height: 1.8;">
-        👋 Hi! I'm <strong>Viktor Vinogradov</strong>.<br/>
-        I'm an aspiring <strong>Data Scientist</strong> and student at <strong>SENATOROV.AI</strong>.<br/><br/>
+        👋 Hi! I'm <strong>Viktor Vinogradov</strong>.<br/><br/>
         📊 I work with <strong>Python, Pandas, Scikit-learn, XGBoost</strong>.<br/>
         🔍 I perform EDA, build ML pipelines, and interpret models.<br/>
         📈 Passionate about statistics, optimization, and applied ML.<br/>
@@ -125,24 +124,3 @@
 </p>
 
 <br/>
-
-
-
-
-
-
-
-<!--
-**ViktorVinogradov89/ViktorVinogradov89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
