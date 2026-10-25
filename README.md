@@ -29,8 +29,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=300&lines=Data+Scientist;ML+Engineer;Аналитик+данных" alt="Typing SVG"/>
       </p>
       <p align="center" style="font-size: 16px; line-height: 1.8;">
-        👋 Привет! Меня зовут <strong>Виктор Виноградов</strong>.<br/>
-        
+        👋 Привет! Меня зовут <strong>Виктор Виноградов</strong>.<br/><br/>
         📊 Работаю с <strong>Python, Pandas, Scikit-learn, XGBoost</strong>.<br/>
         🔍 Провожу EDA, строю ML-пайплайны и интерпретирую модели.<br/>
         📈 Увлекаюсь статистикой, оптимизацией и решением прикладных задач.<br/>
@@ -122,5 +121,3 @@
   <img class="skill-badge" src="https://img.shields.io/badge/Imbalanced_Classes-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
   <img class="skill-badge" src="https://img.shields.io/badge/Hyperparameter_Tuning-0077B6?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
-<br/>
